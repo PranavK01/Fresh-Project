@@ -1,1 +1,1 @@
-This is a git push demo
+This is a git ignore demo.
