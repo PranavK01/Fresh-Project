@@ -1,12 +1,1 @@
 This is a git comparison demo.
-<<<<<<< HEAD
-Adding some changes to compare
-differences between various git life cycle stages.
-=======
-adding some more comments
-comparing the difference between master branch and test branch.
-<<<<<<< HEAD
->>>>>>> test
-=======
-checking fastforward merge
->>>>>>> test
