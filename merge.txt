@@ -1,0 +1,4 @@
+This file is to demonstrate git rebase and merge.
+Adding change on master branch.
+Adding change on master branch for merge demo.
+Adding another change on master branch.
